@@ -27,8 +27,8 @@ If the evaluation metrics allow for it, you can compare the results of multiple 
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Ronick Aakshath P
-RegisterNumber: 212222240084
+Developed by:DEEPIKA P
+RegisterNumber: 212223240024
 */
 
 import pandas as pd
